@@ -3,4 +3,3 @@ export * from './user.interface';
 export * from './auth-status.enum';
 export * from './check-token.response';
 export * from './register-response.interface';
-export * from './user-register.interface';
