@@ -1,5 +1,5 @@
 export enum AuthStatus {
-  checking          = 'hecking',
+  checking          = 'checking',
   authenticated     = 'authenticated',
   notAuthenticated  = 'notAuthenticated',
 }
